@@ -1,1 +1,1 @@
-# Arcade_game
+# Javascript arcade game
